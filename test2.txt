@@ -1,1 +1,1 @@
-this is first file for MoreTest branch
+this file is being modified for the test of branch merging
